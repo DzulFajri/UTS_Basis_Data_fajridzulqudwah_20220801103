@@ -13,7 +13,7 @@ Proyek ini merupakan skema basis data untuk sistem informasi perkuliahan. Terdap
 5.tabel mahasiswa
 6.tabel jadwal perkuliahan
 
-table transaksinya 'jadwal_perkuliahan'.
+table transaksinya `jadwal perkuliahan`.
 
 ### Penggunaan
 1. Buat database baru di sistem manajemen basis data Anda.
